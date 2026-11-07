@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/main/light.svg">
-  <img alt="Bhoopathi Harshitha" src="https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/main/light.svg">
-</picture>
+  ![Bhoopathi Harshitha](https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/main/dark.svg#gh-dark-mode-only)
+  ![Bhoopathi Harshitha](https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/main/light.svg#gh-light-mode-only)
 
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=harshitha14-cyber&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
@@ -11,13 +8,8 @@
 <img width="49%" src="https://readme-stats-two-taupe.vercel.app/api/top-langs/?username=harshitha14-cyber&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/output/github-snake.svg" />
-</picture>
-</div>
+![Snake eating my contributions](https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake eating my contributions](https://raw.githubusercontent.com/harshitha14-cyber/harshitha14-cyber/output/github-snake.svg#gh-light-mode-only)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/harshitha-bhoopathi-a88240333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
